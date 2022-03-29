@@ -1,6 +1,6 @@
 # bitquery-python
 
-A simple package to query GraphQL using Bitquery
+A simple package to query GraphQL using [Bitquery](https://bitquery.io)
 
 ## Installation
 
@@ -41,3 +41,4 @@ print(result)
 ## More information
 * [GraphQL APIs using Python](https://bitquery.io/blog/graphql-with-python-javascript-and-ruby#GraphQL_APIs_using_Python)
 * [GraphQL IDE](https://graphql.bitquery.io/ide)
+* [Bitquery](https://bitquery.io)
