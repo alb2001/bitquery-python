@@ -39,6 +39,7 @@ print(result)
 
 
 ## More information
+* [bitquery-python on PyPI](https://pypi.org/project/bitquery-python)
 * [GraphQL APIs using Python](https://bitquery.io/blog/graphql-with-python-javascript-and-ruby#GraphQL_APIs_using_Python)
 * [GraphQL IDE](https://graphql.bitquery.io/ide)
 * [Bitquery](https://bitquery.io)
